@@ -1,0 +1,7 @@
+= Practical quickstart to non-blocking Ratpack @ GR8Conf EU 2019
+
+This is the source code of the application created at GR8Conf EU 2019.
+
+Slides: https://speakerdeck.com/wololock/practical-quickstart-to-non-blocking-io-with-ratpack
+
+Video: _coming soon_

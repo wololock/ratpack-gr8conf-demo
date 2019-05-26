@@ -1,0 +1,8 @@
+.gradle/
+.lazybones/
+build/
+out/
+*.iml
+*.ipr
+*.iws
+*.log
